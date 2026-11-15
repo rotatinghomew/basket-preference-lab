@@ -1,0 +1,1855 @@
+{
+  "version": "r9-2026-11-01",
+  "page_size": 13,
+  "synthetic": true,
+  "products": [
+    "spinach",
+    "carrot",
+    "mushroom",
+    "bean"
+  ],
+  "opportunities": {
+    "V001": {
+      "id": "V001-op3",
+      "prices": [
+        5.08,
+        5.17,
+        4.85,
+        2.01
+      ],
+      "limits": [
+        3,
+        3,
+        0,
+        3
+      ],
+      "budget": 25,
+      "bag_capacity": 7,
+      "threshold": 20,
+      "discount": 4,
+      "weight_tolerance": 0.03
+    },
+    "V002": {
+      "id": "V002-op3",
+      "prices": [
+        2.52,
+        5.16,
+        5.95,
+        3.18
+      ],
+      "limits": [
+        3,
+        3,
+        2,
+        3
+      ],
+      "budget": 25,
+      "bag_capacity": 7,
+      "threshold": 20,
+      "discount": 4,
+      "weight_tolerance": 0.03
+    },
+    "V003": {
+      "id": "V003-op3",
+      "prices": [
+        2.68,
+        3.3,
+        2.73,
+        5.72
+      ],
+      "limits": [
+        3,
+        3,
+        2,
+        3
+      ],
+      "budget": 25,
+      "bag_capacity": 7,
+      "threshold": 20,
+      "discount": 4,
+      "weight_tolerance": 0.03
+    },
+    "V004": {
+      "id": "V004-op3",
+      "prices": [
+        4.28,
+        5.45,
+        3.82,
+        2.55
+      ],
+      "limits": [
+        3,
+        3,
+        2,
+        3
+      ],
+      "budget": 25,
+      "bag_capacity": 7,
+      "threshold": 20,
+      "discount": 4,
+      "weight_tolerance": 0.03
+    },
+    "V005": {
+      "id": "V005-op3",
+      "prices": [
+        2.19,
+        3.66,
+        4.2,
+        2.54
+      ],
+      "limits": [
+        3,
+        3,
+        2,
+        3
+      ],
+      "budget": 25,
+      "bag_capacity": 7,
+      "threshold": 20,
+      "discount": 4,
+      "weight_tolerance": 0.03
+    },
+    "V006": {
+      "id": "V006-op3",
+      "prices": [
+        5.55,
+        4.08,
+        3.62,
+        2.38
+      ],
+      "limits": [
+        3,
+        3,
+        0,
+        3
+      ],
+      "budget": 25,
+      "bag_capacity": 7,
+      "threshold": 20,
+      "discount": 4,
+      "weight_tolerance": 0.03
+    },
+    "V007": {
+      "id": "V007-op3",
+      "prices": [
+        4.0,
+        5.52,
+        4.97,
+        3.77
+      ],
+      "limits": [
+        3,
+        3,
+        2,
+        3
+      ],
+      "budget": 25,
+      "bag_capacity": 7,
+      "threshold": 20,
+      "discount": 4,
+      "weight_tolerance": 0.03
+    },
+    "V008": {
+      "id": "V008-op3",
+      "prices": [
+        4.78,
+        2.26,
+        2.54,
+        3.7
+      ],
+      "limits": [
+        3,
+        3,
+        2,
+        3
+      ],
+      "budget": 25,
+      "bag_capacity": 7,
+      "threshold": 20,
+      "discount": 4,
+      "weight_tolerance": 0.03
+    },
+    "V009": {
+      "id": "V009-op3",
+      "prices": [
+        2.75,
+        3.73,
+        5.08,
+        2.63
+      ],
+      "limits": [
+        3,
+        3,
+        2,
+        3
+      ],
+      "budget": 25,
+      "bag_capacity": 7,
+      "threshold": 20,
+      "discount": 4,
+      "weight_tolerance": 0.03
+    },
+    "V010": {
+      "id": "V010-op3",
+      "prices": [
+        4.92,
+        5.72,
+        5.78,
+        3.62
+      ],
+      "limits": [
+        3,
+        3,
+        2,
+        3
+      ],
+      "budget": 25,
+      "bag_capacity": 7,
+      "threshold": 20,
+      "discount": 4,
+      "weight_tolerance": 0.03
+    },
+    "V011": {
+      "id": "V011-op3",
+      "prices": [
+        4.08,
+        5.89,
+        5.03,
+        2.63
+      ],
+      "limits": [
+        3,
+        3,
+        0,
+        3
+      ],
+      "budget": 25,
+      "bag_capacity": 7,
+      "threshold": 20,
+      "discount": 4,
+      "weight_tolerance": 0.03
+    },
+    "V012": {
+      "id": "V012-op3",
+      "prices": [
+        2.83,
+        3.68,
+        3.82,
+        2.04
+      ],
+      "limits": [
+        3,
+        3,
+        2,
+        3
+      ],
+      "budget": 25,
+      "bag_capacity": 7,
+      "threshold": 20,
+      "discount": 4,
+      "weight_tolerance": 0.03
+    },
+    "V013": {
+      "id": "V013-op3",
+      "prices": [
+        5.52,
+        5.92,
+        4.18,
+        4.13
+      ],
+      "limits": [
+        3,
+        3,
+        2,
+        3
+      ],
+      "budget": 25,
+      "bag_capacity": 7,
+      "threshold": 20,
+      "discount": 4,
+      "weight_tolerance": 0.03
+    },
+    "V014": {
+      "id": "V014-op3",
+      "prices": [
+        4.71,
+        4.45,
+        3.62,
+        5.53
+      ],
+      "limits": [
+        3,
+        3,
+        2,
+        3
+      ],
+      "budget": 25,
+      "bag_capacity": 7,
+      "threshold": 20,
+      "discount": 4,
+      "weight_tolerance": 0.03
+    },
+    "V015": {
+      "id": "V015-op3",
+      "prices": [
+        5.98,
+        4.08,
+        4.08,
+        3.95
+      ],
+      "limits": [
+        3,
+        3,
+        2,
+        3
+      ],
+      "budget": 25,
+      "bag_capacity": 7,
+      "threshold": 20,
+      "discount": 4,
+      "weight_tolerance": 0.03
+    },
+    "V016": {
+      "id": "V016-op3",
+      "prices": [
+        4.46,
+        5.07,
+        4.12,
+        4.99
+      ],
+      "limits": [
+        3,
+        3,
+        0,
+        3
+      ],
+      "budget": 25,
+      "bag_capacity": 7,
+      "threshold": 20,
+      "discount": 4,
+      "weight_tolerance": 0.03
+    },
+    "V017": {
+      "id": "V017-op3",
+      "prices": [
+        2.54,
+        5.46,
+        4.7,
+        5.65
+      ],
+      "limits": [
+        3,
+        3,
+        2,
+        3
+      ],
+      "budget": 25,
+      "bag_capacity": 7,
+      "threshold": 20,
+      "discount": 4,
+      "weight_tolerance": 0.03
+    },
+    "V018": {
+      "id": "V018-op3",
+      "prices": [
+        2.33,
+        2.08,
+        4.46,
+        4.13
+      ],
+      "limits": [
+        3,
+        3,
+        2,
+        3
+      ],
+      "budget": 25,
+      "bag_capacity": 7,
+      "threshold": 20,
+      "discount": 4,
+      "weight_tolerance": 0.03
+    },
+    "V019": {
+      "id": "V019-op3",
+      "prices": [
+        5.24,
+        4.37,
+        5.86,
+        2.86
+      ],
+      "limits": [
+        3,
+        3,
+        2,
+        3
+      ],
+      "budget": 25,
+      "bag_capacity": 7,
+      "threshold": 20,
+      "discount": 4,
+      "weight_tolerance": 0.03
+    },
+    "V020": {
+      "id": "V020-op3",
+      "prices": [
+        5.54,
+        4.05,
+        5.26,
+        5.91
+      ],
+      "limits": [
+        3,
+        3,
+        2,
+        3
+      ],
+      "budget": 25,
+      "bag_capacity": 7,
+      "threshold": 20,
+      "discount": 4,
+      "weight_tolerance": 0.03
+    },
+    "V021": {
+      "id": "V021-op3",
+      "prices": [
+        5.96,
+        5.89,
+        5.0,
+        4.19
+      ],
+      "limits": [
+        3,
+        3,
+        0,
+        3
+      ],
+      "budget": 25,
+      "bag_capacity": 7,
+      "threshold": 20,
+      "discount": 4,
+      "weight_tolerance": 0.03
+    },
+    "V022": {
+      "id": "V022-op3",
+      "prices": [
+        2.8,
+        5.48,
+        3.91,
+        2.41
+      ],
+      "limits": [
+        3,
+        3,
+        2,
+        3
+      ],
+      "budget": 25,
+      "bag_capacity": 7,
+      "threshold": 20,
+      "discount": 4,
+      "weight_tolerance": 0.03
+    },
+    "V023": {
+      "id": "V023-op3",
+      "prices": [
+        5.82,
+        4.0,
+        5.88,
+        5.73
+      ],
+      "limits": [
+        3,
+        3,
+        2,
+        3
+      ],
+      "budget": 25,
+      "bag_capacity": 7,
+      "threshold": 20,
+      "discount": 4,
+      "weight_tolerance": 0.03
+    },
+    "V024": {
+      "id": "V024-op3",
+      "prices": [
+        5.55,
+        2.78,
+        5.02,
+        2.61
+      ],
+      "limits": [
+        3,
+        3,
+        2,
+        3
+      ],
+      "budget": 25,
+      "bag_capacity": 7,
+      "threshold": 20,
+      "discount": 4,
+      "weight_tolerance": 0.03
+    },
+    "V025": {
+      "id": "V025-op3",
+      "prices": [
+        4.95,
+        3.33,
+        3.81,
+        5.22
+      ],
+      "limits": [
+        3,
+        3,
+        2,
+        3
+      ],
+      "budget": 25,
+      "bag_capacity": 7,
+      "threshold": 20,
+      "discount": 4,
+      "weight_tolerance": 0.03
+    },
+    "V026": {
+      "id": "V026-op3",
+      "prices": [
+        4.29,
+        3.63,
+        5.84,
+        3.92
+      ],
+      "limits": [
+        3,
+        3,
+        0,
+        3
+      ],
+      "budget": 25,
+      "bag_capacity": 7,
+      "threshold": 20,
+      "discount": 4,
+      "weight_tolerance": 0.03
+    },
+    "V027": {
+      "id": "V027-op3",
+      "prices": [
+        3.42,
+        3.83,
+        2.04,
+        4.21
+      ],
+      "limits": [
+        3,
+        3,
+        2,
+        3
+      ],
+      "budget": 25,
+      "bag_capacity": 7,
+      "threshold": 20,
+      "discount": 4,
+      "weight_tolerance": 0.03
+    },
+    "V028": {
+      "id": "V028-op3",
+      "prices": [
+        5.27,
+        5.26,
+        3.47,
+        3.68
+      ],
+      "limits": [
+        3,
+        3,
+        2,
+        3
+      ],
+      "budget": 25,
+      "bag_capacity": 7,
+      "threshold": 20,
+      "discount": 4,
+      "weight_tolerance": 0.03
+    },
+    "V029": {
+      "id": "V029-op3",
+      "prices": [
+        2.8,
+        3.57,
+        4.73,
+        3.4
+      ],
+      "limits": [
+        3,
+        3,
+        2,
+        3
+      ],
+      "budget": 25,
+      "bag_capacity": 7,
+      "threshold": 20,
+      "discount": 4,
+      "weight_tolerance": 0.03
+    },
+    "V030": {
+      "id": "V030-op3",
+      "prices": [
+        2.96,
+        2.42,
+        3.06,
+        3.7
+      ],
+      "limits": [
+        3,
+        3,
+        2,
+        3
+      ],
+      "budget": 25,
+      "bag_capacity": 7,
+      "threshold": 20,
+      "discount": 4,
+      "weight_tolerance": 0.03
+    },
+    "V031": {
+      "id": "V031-op3",
+      "prices": [
+        2.28,
+        4.08,
+        3.65,
+        5.19
+      ],
+      "limits": [
+        3,
+        3,
+        0,
+        3
+      ],
+      "budget": 25,
+      "bag_capacity": 7,
+      "threshold": 20,
+      "discount": 4,
+      "weight_tolerance": 0.03
+    },
+    "V032": {
+      "id": "V032-op3",
+      "prices": [
+        4.44,
+        3.28,
+        2.55,
+        2.04
+      ],
+      "limits": [
+        3,
+        3,
+        2,
+        3
+      ],
+      "budget": 25,
+      "bag_capacity": 7,
+      "threshold": 20,
+      "discount": 4,
+      "weight_tolerance": 0.03
+    },
+    "V033": {
+      "id": "V033-op3",
+      "prices": [
+        5.09,
+        5.5,
+        5.46,
+        5.44
+      ],
+      "limits": [
+        3,
+        3,
+        2,
+        3
+      ],
+      "budget": 25,
+      "bag_capacity": 7,
+      "threshold": 20,
+      "discount": 4,
+      "weight_tolerance": 0.03
+    },
+    "V034": {
+      "id": "V034-op3",
+      "prices": [
+        2.31,
+        5.65,
+        4.79,
+        3.72
+      ],
+      "limits": [
+        3,
+        3,
+        2,
+        3
+      ],
+      "budget": 25,
+      "bag_capacity": 7,
+      "threshold": 20,
+      "discount": 4,
+      "weight_tolerance": 0.03
+    },
+    "V035": {
+      "id": "V035-op3",
+      "prices": [
+        2.89,
+        2.59,
+        4.38,
+        3.54
+      ],
+      "limits": [
+        3,
+        3,
+        2,
+        3
+      ],
+      "budget": 25,
+      "bag_capacity": 7,
+      "threshold": 20,
+      "discount": 4,
+      "weight_tolerance": 0.03
+    },
+    "V036": {
+      "id": "V036-op3",
+      "prices": [
+        4.48,
+        5.72,
+        4.39,
+        5.75
+      ],
+      "limits": [
+        3,
+        3,
+        0,
+        3
+      ],
+      "budget": 25,
+      "bag_capacity": 7,
+      "threshold": 20,
+      "discount": 4,
+      "weight_tolerance": 0.03
+    },
+    "V037": {
+      "id": "V037-op3",
+      "prices": [
+        3.84,
+        3.53,
+        2.23,
+        3.29
+      ],
+      "limits": [
+        3,
+        3,
+        2,
+        3
+      ],
+      "budget": 25,
+      "bag_capacity": 7,
+      "threshold": 20,
+      "discount": 4,
+      "weight_tolerance": 0.03
+    },
+    "V038": {
+      "id": "V038-op3",
+      "prices": [
+        3.32,
+        3.41,
+        3.49,
+        5.24
+      ],
+      "limits": [
+        3,
+        3,
+        2,
+        3
+      ],
+      "budget": 25,
+      "bag_capacity": 7,
+      "threshold": 20,
+      "discount": 4,
+      "weight_tolerance": 0.03
+    },
+    "V039": {
+      "id": "V039-op3",
+      "prices": [
+        4.29,
+        5.21,
+        3.3,
+        2.34
+      ],
+      "limits": [
+        3,
+        3,
+        2,
+        3
+      ],
+      "budget": 25,
+      "bag_capacity": 7,
+      "threshold": 20,
+      "discount": 4,
+      "weight_tolerance": 0.03
+    },
+    "V040": {
+      "id": "V040-op3",
+      "prices": [
+        2.98,
+        4.49,
+        4.96,
+        4.47
+      ],
+      "limits": [
+        3,
+        3,
+        2,
+        3
+      ],
+      "budget": 25,
+      "bag_capacity": 7,
+      "threshold": 20,
+      "discount": 4,
+      "weight_tolerance": 0.03
+    }
+  },
+  "rows": [
+    {
+      "id": "V001",
+      "household": "F0",
+      "visit": "V001",
+      "week": 0,
+      "chosen": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "price_lower": [
+        4.9276,
+        5.0149,
+        4.7044999999999995,
+        1.9496999999999998
+      ],
+      "price_upper": [
+        5.2324,
+        5.3251,
+        4.9955,
+        2.0703
+      ],
+      "opportunity_version": "V001-op3",
+      "release": "r9-2026-11-01"
+    },
+    {
+      "id": "V002",
+      "household": "F0",
+      "visit": "V002",
+      "week": 1,
+      "chosen": [
+        2,
+        1,
+        1,
+        1
+      ],
+      "price_lower": [
+        2.4444,
+        5.0052,
+        5.7715,
+        3.0846
+      ],
+      "price_upper": [
+        2.5956,
+        5.3148,
+        6.128500000000001,
+        3.2754000000000003
+      ],
+      "opportunity_version": "V002-op3",
+      "release": "r9-2026-11-01"
+    },
+    {
+      "id": "V003",
+      "household": "F0",
+      "visit": "V003",
+      "week": 2,
+      "chosen": [
+        1,
+        1,
+        1,
+        0
+      ],
+      "price_lower": [
+        2.5996,
+        3.2009999999999996,
+        2.6481,
+        5.5484
+      ],
+      "price_upper": [
+        2.7604,
+        3.399,
+        2.8119,
+        5.8915999999999995
+      ],
+      "opportunity_version": "V003-op3",
+      "release": "r9-2026-11-01"
+    },
+    {
+      "id": "V004",
+      "household": "F0",
+      "visit": "V004",
+      "week": 3,
+      "chosen": [
+        2,
+        1,
+        1,
+        1
+      ],
+      "price_lower": [
+        4.1516,
+        5.2865,
+        3.7053999999999996,
+        2.4734999999999996
+      ],
+      "price_upper": [
+        4.4084,
+        5.6135,
+        3.9346,
+        2.6265
+      ],
+      "opportunity_version": "V004-op3",
+      "release": "r9-2026-11-01"
+    },
+    {
+      "id": "V005",
+      "household": "F1",
+      "visit": "V005",
+      "week": 0,
+      "chosen": [
+        1,
+        1,
+        1,
+        0
+      ],
+      "price_lower": [
+        2.1243,
+        3.5502000000000002,
+        4.074,
+        2.4638
+      ],
+      "price_upper": [
+        2.2557,
+        3.7698,
+        4.3260000000000005,
+        2.6162
+      ],
+      "opportunity_version": "V005-op3",
+      "release": "r9-2026-11-01"
+    },
+    {
+      "id": "V006",
+      "household": "F1",
+      "visit": "V006",
+      "week": 1,
+      "chosen": [
+        2,
+        1,
+        0,
+        1
+      ],
+      "price_lower": [
+        5.3835,
+        3.9576,
+        3.5114,
+        2.3085999999999998
+      ],
+      "price_upper": [
+        5.7165,
+        4.2024,
+        3.7286,
+        2.4514
+      ],
+      "opportunity_version": "V006-op3",
+      "release": "r9-2026-11-01"
+    },
+    {
+      "id": "V007",
+      "household": "F1",
+      "visit": "V007",
+      "week": 2,
+      "chosen": [
+        1,
+        1,
+        1,
+        0
+      ],
+      "price_lower": [
+        3.88,
+        5.354399999999999,
+        4.8209,
+        3.6569
+      ],
+      "price_upper": [
+        4.12,
+        5.6856,
+        5.1190999999999995,
+        3.8831
+      ],
+      "opportunity_version": "V007-op3",
+      "release": "r9-2026-11-01"
+    },
+    {
+      "id": "V008",
+      "household": "F1",
+      "visit": "V008",
+      "week": 3,
+      "chosen": [
+        2,
+        1,
+        1,
+        1
+      ],
+      "price_lower": [
+        4.6366000000000005,
+        2.1921999999999997,
+        2.4638,
+        3.589
+      ],
+      "price_upper": [
+        4.9234,
+        2.3278,
+        2.6162,
+        3.8110000000000004
+      ],
+      "opportunity_version": "V008-op3",
+      "release": "r9-2026-11-01"
+    },
+    {
+      "id": "V009",
+      "household": "F2",
+      "visit": "V009",
+      "week": 0,
+      "chosen": [
+        1,
+        1,
+        1,
+        0
+      ],
+      "price_lower": [
+        2.6675,
+        3.6181,
+        4.9276,
+        2.5511
+      ],
+      "price_upper": [
+        2.8325,
+        3.8419,
+        5.2324,
+        2.7089
+      ],
+      "opportunity_version": "V009-op3",
+      "release": "r9-2026-11-01"
+    },
+    {
+      "id": "V010",
+      "household": "F2",
+      "visit": "V010",
+      "week": 1,
+      "chosen": [
+        2,
+        1,
+        1,
+        1
+      ],
+      "price_lower": [
+        4.7724,
+        5.5484,
+        5.6066,
+        3.5114
+      ],
+      "price_upper": [
+        5.0676,
+        5.8915999999999995,
+        5.9534,
+        3.7286
+      ],
+      "opportunity_version": "V010-op3",
+      "release": "r9-2026-11-01"
+    },
+    {
+      "id": "V011",
+      "household": "F2",
+      "visit": "V011",
+      "week": 2,
+      "chosen": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "price_lower": [
+        3.9576,
+        5.713299999999999,
+        4.8791,
+        2.5511
+      ],
+      "price_upper": [
+        4.2024,
+        6.0667,
+        5.1809,
+        2.7089
+      ],
+      "opportunity_version": "V011-op3",
+      "release": "r9-2026-11-01"
+    },
+    {
+      "id": "V012",
+      "household": "F2",
+      "visit": "V012",
+      "week": 3,
+      "chosen": [
+        2,
+        1,
+        1,
+        1
+      ],
+      "price_lower": [
+        2.7451,
+        3.5696,
+        3.7053999999999996,
+        1.9788
+      ],
+      "price_upper": [
+        2.9149000000000003,
+        3.7904000000000004,
+        3.9346,
+        2.1012
+      ],
+      "opportunity_version": "V012-op3",
+      "release": "r9-2026-11-01"
+    },
+    {
+      "id": "V013",
+      "household": "F3",
+      "visit": "V013",
+      "week": 0,
+      "chosen": [
+        1,
+        1,
+        1,
+        0
+      ],
+      "price_lower": [
+        5.354399999999999,
+        5.7424,
+        4.0546,
+        4.0061
+      ],
+      "price_upper": [
+        5.6856,
+        6.0976,
+        4.3054,
+        4.2539
+      ],
+      "opportunity_version": "V013-op3",
+      "release": "r9-2026-11-01"
+    },
+    {
+      "id": "V014",
+      "household": "F3",
+      "visit": "V014",
+      "week": 1,
+      "chosen": [
+        2,
+        1,
+        1,
+        1
+      ],
+      "price_lower": [
+        4.5687,
+        4.3165000000000004,
+        3.5114,
+        5.3641000000000005
+      ],
+      "price_upper": [
+        4.8513,
+        4.5835,
+        3.7286,
+        5.6959
+      ],
+      "opportunity_version": "V014-op3",
+      "release": "r9-2026-11-01"
+    },
+    {
+      "id": "V015",
+      "household": "F3",
+      "visit": "V015",
+      "week": 2,
+      "chosen": [
+        1,
+        1,
+        1,
+        0
+      ],
+      "price_lower": [
+        5.8006,
+        3.9576,
+        3.9576,
+        3.8315
+      ],
+      "price_upper": [
+        6.159400000000001,
+        4.2024,
+        4.2024,
+        4.0685
+      ],
+      "opportunity_version": "V015-op3",
+      "release": "r9-2026-11-01"
+    },
+    {
+      "id": "V016",
+      "household": "F3",
+      "visit": "V016",
+      "week": 3,
+      "chosen": [
+        2,
+        1,
+        0,
+        1
+      ],
+      "price_lower": [
+        4.3262,
+        4.9179,
+        3.9964,
+        4.8403
+      ],
+      "price_upper": [
+        4.5938,
+        5.2221,
+        4.2436,
+        5.1397
+      ],
+      "opportunity_version": "V016-op3",
+      "release": "r9-2026-11-01"
+    },
+    {
+      "id": "V017",
+      "household": "F4",
+      "visit": "V017",
+      "week": 0,
+      "chosen": [
+        1,
+        1,
+        1,
+        0
+      ],
+      "price_lower": [
+        2.4638,
+        5.2962,
+        4.559,
+        5.4805
+      ],
+      "price_upper": [
+        2.6162,
+        5.6238,
+        4.841,
+        5.819500000000001
+      ],
+      "opportunity_version": "V017-op3",
+      "release": "r9-2026-11-01"
+    },
+    {
+      "id": "V018",
+      "household": "F4",
+      "visit": "V018",
+      "week": 1,
+      "chosen": [
+        2,
+        1,
+        1,
+        1
+      ],
+      "price_lower": [
+        2.2601,
+        2.0176,
+        4.3262,
+        4.0061
+      ],
+      "price_upper": [
+        2.3999,
+        2.1424000000000003,
+        4.5938,
+        4.2539
+      ],
+      "opportunity_version": "V018-op3",
+      "release": "r9-2026-11-01"
+    },
+    {
+      "id": "V019",
+      "household": "F4",
+      "visit": "V019",
+      "week": 2,
+      "chosen": [
+        1,
+        1,
+        1,
+        0
+      ],
+      "price_lower": [
+        5.0828,
+        4.2389,
+        5.684200000000001,
+        2.7742
+      ],
+      "price_upper": [
+        5.397200000000001,
+        4.5011,
+        6.0358,
+        2.9457999999999998
+      ],
+      "opportunity_version": "V019-op3",
+      "release": "r9-2026-11-01"
+    },
+    {
+      "id": "V020",
+      "household": "F4",
+      "visit": "V020",
+      "week": 3,
+      "chosen": [
+        2,
+        1,
+        1,
+        1
+      ],
+      "price_lower": [
+        5.3738,
+        3.9284999999999997,
+        5.1022,
+        5.7327
+      ],
+      "price_upper": [
+        5.7062,
+        4.1715,
+        5.4178,
+        6.0873
+      ],
+      "opportunity_version": "V020-op3",
+      "release": "r9-2026-11-01"
+    },
+    {
+      "id": "V021",
+      "household": "F5",
+      "visit": "V021",
+      "week": 0,
+      "chosen": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "price_lower": [
+        5.7812,
+        5.713299999999999,
+        4.85,
+        4.0643
+      ],
+      "price_upper": [
+        6.1388,
+        6.0667,
+        5.15,
+        4.3157000000000005
+      ],
+      "opportunity_version": "V021-op3",
+      "release": "r9-2026-11-01"
+    },
+    {
+      "id": "V022",
+      "household": "F5",
+      "visit": "V022",
+      "week": 1,
+      "chosen": [
+        2,
+        1,
+        1,
+        1
+      ],
+      "price_lower": [
+        2.7159999999999997,
+        5.3156,
+        3.7927,
+        2.3377
+      ],
+      "price_upper": [
+        2.884,
+        5.644400000000001,
+        4.0273,
+        2.4823000000000004
+      ],
+      "opportunity_version": "V022-op3",
+      "release": "r9-2026-11-01"
+    },
+    {
+      "id": "V023",
+      "household": "F5",
+      "visit": "V023",
+      "week": 2,
+      "chosen": [
+        1,
+        1,
+        1,
+        0
+      ],
+      "price_lower": [
+        5.6454,
+        3.88,
+        5.7036,
+        5.5581000000000005
+      ],
+      "price_upper": [
+        5.9946,
+        4.12,
+        6.0564,
+        5.9019
+      ],
+      "opportunity_version": "V023-op3",
+      "release": "r9-2026-11-01"
+    },
+    {
+      "id": "V024",
+      "household": "F5",
+      "visit": "V024",
+      "week": 3,
+      "chosen": [
+        2,
+        1,
+        1,
+        1
+      ],
+      "price_lower": [
+        5.3835,
+        2.6965999999999997,
+        4.8694,
+        2.5317
+      ],
+      "price_upper": [
+        5.7165,
+        2.8634,
+        5.170599999999999,
+        2.6883
+      ],
+      "opportunity_version": "V024-op3",
+      "release": "r9-2026-11-01"
+    },
+    {
+      "id": "V025",
+      "household": "F6",
+      "visit": "V025",
+      "week": 0,
+      "chosen": [
+        1,
+        1,
+        1,
+        0
+      ],
+      "price_lower": [
+        4.8015,
+        3.2301,
+        3.6957,
+        5.0634
+      ],
+      "price_upper": [
+        5.0985000000000005,
+        3.4299,
+        3.9243,
+        5.3766
+      ],
+      "opportunity_version": "V025-op3",
+      "release": "r9-2026-11-01"
+    },
+    {
+      "id": "V026",
+      "household": "F6",
+      "visit": "V026",
+      "week": 1,
+      "chosen": [
+        2,
+        1,
+        0,
+        1
+      ],
+      "price_lower": [
+        4.1613,
+        3.5210999999999997,
+        5.6648,
+        3.8024
+      ],
+      "price_upper": [
+        4.4187,
+        3.7389,
+        6.0152,
+        4.0376
+      ],
+      "opportunity_version": "V026-op3",
+      "release": "r9-2026-11-01"
+    },
+    {
+      "id": "V027",
+      "household": "F6",
+      "visit": "V027",
+      "week": 2,
+      "chosen": [
+        1,
+        1,
+        1,
+        0
+      ],
+      "price_lower": [
+        3.3173999999999997,
+        3.7151,
+        1.9788,
+        4.083699999999999
+      ],
+      "price_upper": [
+        3.5226,
+        3.9449,
+        2.1012,
+        4.3363000000000005
+      ],
+      "opportunity_version": "V027-op3",
+      "release": "r9-2026-11-01"
+    },
+    {
+      "id": "V028",
+      "household": "F6",
+      "visit": "V028",
+      "week": 3,
+      "chosen": [
+        2,
+        1,
+        1,
+        1
+      ],
+      "price_lower": [
+        5.1118999999999994,
+        5.1022,
+        3.3659,
+        3.5696
+      ],
+      "price_upper": [
+        5.4281,
+        5.4178,
+        3.5741000000000005,
+        3.7904000000000004
+      ],
+      "opportunity_version": "V028-op3",
+      "release": "r9-2026-11-01"
+    },
+    {
+      "id": "V029",
+      "household": "F7",
+      "visit": "V029",
+      "week": 0,
+      "chosen": [
+        1,
+        1,
+        1,
+        0
+      ],
+      "price_lower": [
+        2.7159999999999997,
+        3.4629,
+        4.5881,
+        3.298
+      ],
+      "price_upper": [
+        2.884,
+        3.6771,
+        4.871900000000001,
+        3.502
+      ],
+      "opportunity_version": "V029-op3",
+      "release": "r9-2026-11-01"
+    },
+    {
+      "id": "V030",
+      "household": "F7",
+      "visit": "V030",
+      "week": 1,
+      "chosen": [
+        2,
+        1,
+        1,
+        1
+      ],
+      "price_lower": [
+        2.8712,
+        2.3474,
+        2.9682,
+        3.589
+      ],
+      "price_upper": [
+        3.0488,
+        2.4926,
+        3.1518,
+        3.8110000000000004
+      ],
+      "opportunity_version": "V030-op3",
+      "release": "r9-2026-11-01"
+    },
+    {
+      "id": "V031",
+      "household": "F7",
+      "visit": "V031",
+      "week": 2,
+      "chosen": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "price_lower": [
+        2.2116,
+        3.9576,
+        3.5404999999999998,
+        5.0343
+      ],
+      "price_upper": [
+        2.3484,
+        4.2024,
+        3.7595,
+        5.345700000000001
+      ],
+      "opportunity_version": "V031-op3",
+      "release": "r9-2026-11-01"
+    },
+    {
+      "id": "V032",
+      "household": "F7",
+      "visit": "V032",
+      "week": 3,
+      "chosen": [
+        2,
+        1,
+        1,
+        1
+      ],
+      "price_lower": [
+        4.3068,
+        3.1815999999999995,
+        2.4734999999999996,
+        1.9788
+      ],
+      "price_upper": [
+        4.573200000000001,
+        3.3784,
+        2.6265,
+        2.1012
+      ],
+      "opportunity_version": "V032-op3",
+      "release": "r9-2026-11-01"
+    },
+    {
+      "id": "V033",
+      "household": "F8",
+      "visit": "V033",
+      "week": 0,
+      "chosen": [
+        1,
+        1,
+        1,
+        0
+      ],
+      "price_lower": [
+        4.9373,
+        5.335,
+        5.2962,
+        5.276800000000001
+      ],
+      "price_upper": [
+        5.2427,
+        5.665,
+        5.6238,
+        5.6032
+      ],
+      "opportunity_version": "V033-op3",
+      "release": "r9-2026-11-01"
+    },
+    {
+      "id": "V034",
+      "household": "F8",
+      "visit": "V034",
+      "week": 1,
+      "chosen": [
+        2,
+        1,
+        1,
+        1
+      ],
+      "price_lower": [
+        2.2407,
+        5.4805,
+        4.6463,
+        3.6084
+      ],
+      "price_upper": [
+        2.3793,
+        5.819500000000001,
+        4.9337,
+        3.8316000000000003
+      ],
+      "opportunity_version": "V034-op3",
+      "release": "r9-2026-11-01"
+    },
+    {
+      "id": "V035",
+      "household": "F8",
+      "visit": "V035",
+      "week": 2,
+      "chosen": [
+        1,
+        1,
+        1,
+        0
+      ],
+      "price_lower": [
+        2.8033,
+        2.5122999999999998,
+        4.2486,
+        3.4337999999999997
+      ],
+      "price_upper": [
+        2.9767,
+        2.6677,
+        4.5114,
+        3.6462000000000003
+      ],
+      "opportunity_version": "V035-op3",
+      "release": "r9-2026-11-01"
+    },
+    {
+      "id": "V036",
+      "household": "F8",
+      "visit": "V036",
+      "week": 3,
+      "chosen": [
+        2,
+        1,
+        0,
+        1
+      ],
+      "price_lower": [
+        4.3456,
+        5.5484,
+        4.258299999999999,
+        5.5775
+      ],
+      "price_upper": [
+        4.614400000000001,
+        5.8915999999999995,
+        4.5217,
+        5.9225
+      ],
+      "opportunity_version": "V036-op3",
+      "release": "r9-2026-11-01"
+    },
+    {
+      "id": "V037",
+      "household": "F9",
+      "visit": "V037",
+      "week": 0,
+      "chosen": [
+        1,
+        1,
+        1,
+        0
+      ],
+      "price_lower": [
+        3.7247999999999997,
+        3.4240999999999997,
+        2.1631,
+        3.1913
+      ],
+      "price_upper": [
+        3.9552,
+        3.6359,
+        2.2969,
+        3.3887
+      ],
+      "opportunity_version": "V037-op3",
+      "release": "r9-2026-11-01"
+    },
+    {
+      "id": "V038",
+      "household": "F9",
+      "visit": "V038",
+      "week": 1,
+      "chosen": [
+        2,
+        1,
+        1,
+        1
+      ],
+      "price_lower": [
+        3.2203999999999997,
+        3.3077,
+        3.3853,
+        5.0828
+      ],
+      "price_upper": [
+        3.4196,
+        3.5123,
+        3.5947000000000005,
+        5.397200000000001
+      ],
+      "opportunity_version": "V038-op3",
+      "release": "r9-2026-11-01"
+    },
+    {
+      "id": "V039",
+      "household": "F9",
+      "visit": "V039",
+      "week": 2,
+      "chosen": [
+        1,
+        1,
+        1,
+        0
+      ],
+      "price_lower": [
+        4.1613,
+        5.0537,
+        3.2009999999999996,
+        2.2697999999999996
+      ],
+      "price_upper": [
+        4.4187,
+        5.3663,
+        3.399,
+        2.4102
+      ],
+      "opportunity_version": "V039-op3",
+      "release": "r9-2026-11-01"
+    },
+    {
+      "id": "V040",
+      "household": "F9",
+      "visit": "V040",
+      "week": 3,
+      "chosen": [
+        2,
+        1,
+        1,
+        1
+      ],
+      "price_lower": [
+        2.8906,
+        4.3553,
+        4.8111999999999995,
+        4.3359
+      ],
+      "price_upper": [
+        3.0694,
+        4.624700000000001,
+        5.1088000000000005,
+        4.6041
+      ],
+      "opportunity_version": "V040-op3",
+      "release": "r9-2026-11-01"
+    }
+  ]
+}
